@@ -12,7 +12,8 @@ website:
     title: false
     logo-alt: "R Consortium logo"
     right:
-
+      - text: "Events"
+        href: events.qmd
       - text: "About"
         menu:
           - text: Mission Statement
